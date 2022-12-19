@@ -1,0 +1,14 @@
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/obj/Debug/netcoreapp3.1/19 dec classwork.csproj.AssemblyReference.cache
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/obj/Debug/netcoreapp3.1/19 dec classwork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/obj/Debug/netcoreapp3.1/19 dec classwork.AssemblyInfoInputs.cache
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/obj/Debug/netcoreapp3.1/19 dec classwork.AssemblyInfo.cs
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/obj/Debug/netcoreapp3.1/19 dec classwork.csproj.CoreCompileInputs.cache
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/bin/Debug/netcoreapp3.1/19 dec classwork
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/bin/Debug/netcoreapp3.1/19 dec classwork.deps.json
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/bin/Debug/netcoreapp3.1/19 dec classwork.runtimeconfig.json
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/bin/Debug/netcoreapp3.1/19 dec classwork.runtimeconfig.dev.json
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/bin/Debug/netcoreapp3.1/19 dec classwork.dll
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/bin/Debug/netcoreapp3.1/19 dec classwork.pdb
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/obj/Debug/netcoreapp3.1/19 dec classwork.dll
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/obj/Debug/netcoreapp3.1/19 dec classwork.pdb
+/Users/shukufa/Projects/19 dec classwork/19 dec classwork/obj/Debug/netcoreapp3.1/19 dec classwork.genruntimeconfig.cache
